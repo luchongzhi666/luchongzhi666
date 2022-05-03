@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luchongzhi666
 - 👀 I’m interested in football
 - 🌱 I’m currently learning mysql and c++
-- 💞️ I’m looking to collaborate on better study and goal good marks
+- 💞️ I’m looking to collaborate on better study and get good marks
 - 📫 How to reach me ...
 
 <!---
